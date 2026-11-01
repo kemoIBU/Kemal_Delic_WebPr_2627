@@ -1,1 +1,3 @@
 backend/logs/*
+
+backend/config/config.php
